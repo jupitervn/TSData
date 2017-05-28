@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: no.tornado:tornadofx:1.7.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/no.tornado/tornadofx/1.7.5/f0dfd67450f8c16499e32f01939262544d76eb17/tornadofx-1.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/no.tornado/tornadofx/1.7.5/11c307c4920c2d9171cab0222e3f334aeb9c208c/tornadofx-1.7.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
